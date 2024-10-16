@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "742628748176",
+    "project_id": "maithao-f2637",
+    "storage_bucket": "maithao-f2637.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:742628748176:android:2da82ea87dc3fd3bdea115",
+        "android_client_info": {
+          "package_name": "com.example.cuoi_ky_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAT2Z-bUkucE1zXB5wSKTaXf--brfkAqt8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
